@@ -22,7 +22,7 @@
     ```
 - Run `terraform init` to download the null provider.
 
-- Run `terraform plan` to see what actions are going to be performed Terraform. Output should look like this :
+- Run `terraform plan` to see what actions are going to be performed by Terraform. Output should look like this :
     ```
     Terraform will perform the following actions:
 
